@@ -27,5 +27,5 @@ O projeto é organizado em três partes principais:
 1. Clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/profrafaellamatos/agendamento-tarefas-python.git
+   git clone 
    cd Agendamento_De_Tarefas
