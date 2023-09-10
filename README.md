@@ -1,7 +1,6 @@
 # Projeto de Agendamento de Tarefas em Python
 
-Este é um projeto simples de agendamento de tarefas em Python para ser utilizado nas aulas de testes unitários com Pytest. 
-O projeto consiste em uma Agenda que permite adicionar, listar e exibir tarefas. Éútil para manter um registro das tarefas que você precisa realizar.
+Este é um projeto simples de uma agenda de tarefas em Python para ser utilizado nas aulas de testes unitários com Pytest. O projeto consiste em uma Agenda que permite adicionar, listar e exibir tarefas. Éútil para manter um registro das tarefas que você precisa realizar.
 
 ## Funcionalidades
 
